@@ -1,172 +1,96 @@
-# Conditions d'utilisation — Condor Mobility
+# Privacy Policy — Condor Mobility
 
-## Metadata
-- **Title:** Conditions d'utilisation — Condor Mobility
-- **Description:** Termes et conditions d'utilisation du service Condor Mobility
+**Last updated: 29 June 2026**
+
+This Privacy Notice for **Condor Electronics** ("we," "us," or "our"), operated technically by
+**FECO IT**, explains how and why we process your personal information when you use the **Condor Connect**
+mobile application (the "Condor Mobility" service, mobility.condor.dz). Questions? Contact
+elyes.matoug@condor.dz.
 
 ---
 
-## Page Structure
-
-### Header
-- Fixed header with white background and border
-- Displays Condor Mobility logo
-- Responsive with max-width container
-
-### Main Content
-Container with max-width 3xl, centered with padding
-
-#### Title Block (Purple Background)
-- **Badge:** "Mentions légales" (legal notices)
-- **Main Title:** "Termes et conditions d'utilisation"
-- **Subtitle:** Invitation to read carefully and contact support via the app
+## Summary of Key Points
+- **What we process:** account details (name, employee ID, professional email, NFC card identifier) and your **precise location**, including in the background during an active trip.
+- **Sensitive data:** precise location, collected only while a trip is in progress.
+- **Sharing:** we do not sell your data and do not share it for advertising or commercial purposes.
+- **Security:** encrypted (HTTPS), authenticated connections and reasonable safeguards.
+- **Your rights:** access, correction, and deletion at any time.
 
 ---
 
 ## Table of Contents
-1. Objet (Purpose)
-2. Services proposés (Services offered)
-3. Acceptation et mises à jour des CGU (Acceptance and updates)
-4. Obligations des utilisateurs (User obligations)
-5. Propriété intellectuelle et intégrité du service (Intellectual property)
-6. Garantie et accessibilité au service (Warranty and accessibility)
-7. Responsabilités (Responsibilities)
-8. Conservation et collecte des données (Data collection and retention)
+1. What information do we collect?
+2. How do we process your information?
+3. Location data and background access
+4. When and with whom do we share your information?
+5. How long do we keep your information?
+6. How do we keep your information safe?
+7. Do we collect information from minors?
+8. What are your privacy rights?
+9. How can you delete your data?
+10. Do we make updates to this notice?
+11. How can you contact us?
 
 ---
 
-## Article 1: Objet
-Defines the general terms of use for the Condor Mobility service (mobility.condor.dz).
+## 1. WHAT INFORMATION DO WE COLLECT?
+*In Short: We collect personal information that you provide and location information when you use the Services.*
 
-This document constitutes a contract between:
-- The user (Condor Electronics employee)
-- FECO IT (the service provider)
+- **Personal information you provide:** name and employee ID, professional email, NFC card identifier, incident reports.
+- **Location information:** precise (GPS) location, including in the **background during an active trip**. Not collected outside an ongoing trip.
+- **Transport usage data:** boarding validations (date, time, stop), assigned line, trip information.
 
----
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
+*In Short: To provide and improve the employee transport service.*
 
-## Article 2: Services proposés
-Services provided via the Condor Connect app and mobility.condor.dz:
+Real-time map position, distance calculation to stops/bus, boarding validation and transport-rights
+management, approach/delay/line-change notifications, service improvement.
 
-- Real-time bus tracking for employee transport
-- Schedule and stop consultation
-- Approach notifications and route information
-- Transport rights management and line assignments
-- NFC card boarding validation
-- Delay or line change alerts
+## 3. LOCATION DATA AND BACKGROUND ACCESS
+*In Short: Background location is accessed only during an active trip.*
 
----
+Background location powers real-time tracking and distance calculation while a trip is in progress.
+None is collected outside a trip. Disable anytime in device/app settings (limits tracking features).
 
-## Article 3: Acceptation et mises à jour des CGU
-- Access to the service implies acceptance of these Terms
-- Terms may be updated at any time
-- New versions will be published at: `mobility.condor.dz/conditions-dutilisation`
-- Users will be notified via in-app notifications
+## 4. WHEN AND WITH WHOM DO WE SHARE YOUR INFORMATION?
+*In Short: We do not sell or share your data for commercial/advertising purposes.*
 
----
+Processed only by Condor Electronics and its technical processor FECO IT, on dedicated servers. No
+advertising networks or data brokers.
 
-## Article 4: Obligations des utilisateurs
-Users must:
+## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
+*In Short: Only as long as necessary.*
 
-- Comply with these Terms
-- Provide accurate and truthful information
-- Use the app only for Condor Mobility purposes
-- Not attempt to disrupt or unauthorized access the service
-- Not share login credentials with third parties
+- Location: duration of trip, then deleted/anonymized within 30 days max.
+- Account/boarding: while you are a beneficiary of the service, then deleted per legal obligations.
 
-The service may contact users via the app or professional email regarding transport information.
+## 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+*In Short: Organizational and technical measures.*
 
----
+Encrypted (HTTPS), authenticated exchanges. No transmission/storage can be guaranteed 100% secure.
 
-## Article 5: Propriété intellectuelle et intégrité du service
+## 7. DO WE COLLECT INFORMATION FROM MINORS?
+*In Short: No.*
 
-### 5.1 Company Content
-- The service content (interface, databases, text, graphics, map data) is protected by:
-  - French Intellectual Property Code provisions
-  - Algerian Law 18-07 on personal data protection
-- Reproduction, distribution, or use without express authorization is prohibited
+Service is exclusively for Condor Electronics employees; we do not knowingly collect data from anyone
+under 18.
 
-### 5.2 User Content
-- Users are responsible for information they provide (e.g., incident reports)
-- Must ensure accuracy and not submit content contrary to public order or morality
+## 8. WHAT ARE YOUR PRIVACY RIGHTS?
+*In Short: Access, correct, delete, or object.*
 
----
+Under Algerian Law 18-07 of 10 June 2018. Exercise via elyes.matoug@condor.dz or +213 560 342 914.
 
-## Article 6: Garantie et accessibilité au service
-- Best efforts are made to provide quality service
-- No guarantee of uninterrupted, error-free, or permanent availability
-- Service may be temporarily suspended for maintenance or updates (preferably during non-working hours)
+## 9. HOW CAN YOU DELETE YOUR DATA?
+*In Short: Request deletion by email.*
 
----
+Send a request from your professional email to elyes.matoug@condor.dz; processed within 30 days.
+Uninstalling stops further location collection immediately.
 
-## Article 7: Responsabilités
+## 10. DO WE MAKE UPDATES TO THIS NOTICE?
+*In Short: Yes, as necessary.*
 
-### 7.1 Services provided by the Company
-- Company not liable for how the service is used
-- Not responsible for errors or omissions in service presentation
-- Use of service is at the user's own risk
+Revised "Last updated" date on this page; in-app notification for material changes.
 
-### 7.2 Internet network and data loss
-- Company not responsible for:
-  - Internet network malfunctions
-  - Connection loss
-  - External events beyond its control affecting service availability
-
----
-
-## Article 8: Conservation et collecte des données
-
-### Data Collected
-**Sole personal data collected:** Geographic location (geolocation) of the passenger, only when:
-- The application is active in the background during an ongoing trip
-
-### Usage of Location Data
-Location data is used exclusively for:
-- Displaying the user's position on the real-time tracking map
-- Calculating distances between user and stops or assigned bus
-- Improving transport service quality and reliability
-
-### Legal Compliance
-Processed in accordance with Algerian legislation, specifically:
-- **Law 18-07 of June 10, 2018** on the protection of natural persons in the processing of personal data
-
-### Privacy Guarantees
-- Location data is **not sold**, **shared with third parties**, or used for commercial purposes
-- Data is retained only for the time strictly necessary to provide the service
-
-### User Controls
-Users may at any time:
-- Disable location services from device settings
-- Disable location from the app
-- *Note:* This may limit certain service functionalities
-
----
-
-## Footer
-© {currentYear} FECO IT — All rights reserved.
+## 11. HOW CAN YOU CONTACT US?
+Data Protection Officer — Email: elyes.matoug@condor.dz · Phone: +213 560 342 914 · Condor Electronics,
 mobility.condor.dz
-
----
-
-## Component: ArticleTitle
-A reusable component that renders article titles with:
-- Number badge in purple circle
-- Article number and title in bold text
-- Visual separation for better readability
-
----
-
-## Design Tokens
-- **Primary Color:** `#422B7B` (purple)
-- **Background:** `#F8FAFC` (slate-50)
-- **Card:** White with rounded corners and subtle shadow
-- **Typography:** Clean, readable with proper hierarchy
-- **Markers:** Purple (#422B7B) for list items
-- **Spacing:** Consistent padding and margins throughout
-
----
-
-## Accessibility Notes
-- Semantic HTML structure (header, main, article sections)
-- Proper heading hierarchy
-- ARIA-friendly component structure
-- Color contrast considerations for readability
